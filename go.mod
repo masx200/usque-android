@@ -6,7 +6,7 @@ toolchain go1.24.2
 
 require (
 	github.com/Diniboy1123/connect-ip-go v0.0.0-20251011145655-7be32d5976d9
-	github.com/quic-go/quic-go v0.57.0
+	github.com/quic-go/quic-go v0.59.1
 	github.com/songgao/water v0.0.0-20200317203138-2b4b6d7c09d8
 	github.com/spf13/cobra v1.10.1
 	github.com/things-go/go-socks5 v0.1.0
